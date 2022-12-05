@@ -28,14 +28,29 @@ jobs:
           user: Pickachu
           template: classic
           base: ""
+          
           config_octicon: yes
           config_padding: 0, 16 + 11%
           config_timezone: America/Sao_Paulo
+          config_order: wakatime, achievements, music
+          
+          extras_css: |
+            h2.field {
+              margin-top: 24px;
+            }
+            
+            section.achievements.compact {
+              margin-top: 8px;
+              justify-content: space-around;
+            }
+
+          
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_limit: 5
           plugin_achievements_threshold: B
+          
           plugin_music: yes
           plugin_music_limit: 1
           plugin_music_mode: top
@@ -45,9 +60,10 @@ jobs:
           plugin_music_provider: lastfm
           plugin_music_time_range: short
           plugin_music_top_type: tracks
+          
           plugin_wakatime: yes
           plugin_wakatime_days: 365
-          plugin_wakatime_limit: 5
+          plugin_wakatime_limit: 2
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
