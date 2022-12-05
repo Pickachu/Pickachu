@@ -27,22 +27,24 @@ jobs:
           # Options
           user: Pickachu
           template: classic
-          base: header, activity, community
+          base: ""
           config_octicon: yes
           config_padding: 0, 16 + 11%
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_limit: 5
+          plugin_achievements_threshold: B
           plugin_music: yes
           plugin_music_limit: 1
           plugin_music_mode: top
           plugin_music_played_at: yes
-          plugin_music_provider: spotify
+          plugin_music_user: Pickachul
+          plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
+          plugin_music_provider: lastfm
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: 12169884155
           plugin_wakatime: yes
           plugin_wakatime_days: 365
           plugin_wakatime_limit: 5
@@ -50,3 +52,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: Pickachu
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
