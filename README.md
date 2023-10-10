@@ -13,3 +13,5 @@
 [![Total time coded since Dec 18 2015](https://wakatime.com/badge/user/383cbf09-455c-4a7b-ab2b-47fa0b2dbb36.svg)](https://wakatime.com/@383cbf09-455c-4a7b-ab2b-47fa0b2dbb36)
 ![Profile view count](https://komarev.com/ghpvc/?username=Pickachu&color=orange&label=Views)
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,,lit,rollupjs,babel,,figma,vscode,,firebase,,threejs,d3,)](https://skillicons.dev)
