@@ -68,13 +68,13 @@ section.achievements.compact {
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">quentar</span>
-                                <div class="bar" style="width: 54.824%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">69%</span>
+                                <div class="bar" style="width: 54.696000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">neurau</span>
-                                <div class="bar" style="width: 19.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 19.759999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">25%</span>
                             </div>
                         </div>
                     </section>
@@ -83,12 +83,12 @@ section.achievements.compact {
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 67.896%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 67.912%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">85%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 3.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.024%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
