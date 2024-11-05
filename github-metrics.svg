@@ -68,7 +68,7 @@ section.achievements.compact {
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">quentar</span>
-                                <div class="bar" style="width: 39.96000000000001%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 39.983999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">50%</span>
                             </div>
                             <div class="entry">
@@ -83,12 +83,12 @@ section.achievements.compact {
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 65.264%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">82%</span>
+                                <div class="bar" style="width: 64.872%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">81%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 4.5600000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
